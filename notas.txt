@@ -1,0 +1,5 @@
+Composer is the package controller for PHP.
+//Command to create laravel project
+composer create-project laravel/laravel contacts-app-laravel   //use webpack
+composer create-project laravel/laravel=9.1.10 contacts-app-laravel  //use vite
+//extension mysql 4.5.12
